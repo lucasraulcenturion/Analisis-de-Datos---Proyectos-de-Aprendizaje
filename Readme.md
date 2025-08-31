@@ -37,10 +37,10 @@ Este trabajo me permitió:
 ## 🛠️ Tecnologías y Recursos Utilizados  
 
 - **Tableau Public** → creación y publicación del dashboard.  
-- **Dataset Forbes 2023** → listado de billonarios y sus atributos principales.  
+- **Dataset Forbes 2023 (Fuente: Kaggle)** → listado de billonarios y sus atributos principales.  
 - **Técnicas aplicadas en Tableau**:  
   - Campos calculados con LOD Expressions (`FIXED`, `RANK_UNIQUE`).  
-  - Parámetros dinámicos para filtros de edad y género.  
+  - Parámetros dinámicos para filtros de edad y género.
   - Gráficos combinados (mapas, barras, KPIs y tablas resumen).  
 
 ---
@@ -61,4 +61,4 @@ Este trabajo me permitió:
 
 ---
 
-✍️ Autor: **Lucas Centurión** – Proyecto final para el curso de *Data Analytics / Fundamentos de IA*.  
+✍️ Autor: **Lucas Centurión** – Proyecto final para el curso de *Tableau / Coderhouse*.  
