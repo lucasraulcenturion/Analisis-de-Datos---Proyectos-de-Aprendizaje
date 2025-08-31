@@ -57,7 +57,7 @@ Este trabajo me permitió:
 
 - 🔗 [Ver Dashboard en Tableau Public](https://public.tableau.com/app/profile/lucas.centurion/viz/TP_Final_Billonarios/Portada?publish=yes)  
 - 📥 (Opcional) Descargar el archivo de Tableau:  
-  - [proyecto_billonarios.twbx](./tableau/TP_Final_Billonarios_v2025.1.twbx)  
+  - [proyecto_billonarios.twbx](./TP_Final_Billonarios_v2025.1.twbx)  
 
 ---
 
